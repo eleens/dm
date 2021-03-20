@@ -6,7 +6,7 @@ package dm
 
 import (
 	"crypto/tls"
-	"dm/security"
+	"github.com/eleens/dm/security"
 	"net"
 	"strconv"
 	"time"
