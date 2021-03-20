@@ -8,7 +8,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/i18n"
+	"github.com/eleens/dm/i18n"
 	"sync"
 )
 
