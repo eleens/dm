@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/eleens/dm/util"
 	"strconv"
 	"time"
 )

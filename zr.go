@@ -6,7 +6,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/eleens/dm/util"
 	"math"
 	"strconv"
 	"strings"

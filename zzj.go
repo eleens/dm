@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"github.com/eleens/dm/parser"
+	"github.com/eleens/dm/util"
 	"strconv"
 	"strings"
 )
